@@ -65,10 +65,3 @@ if [[ ${#devices_complete[@]} -gt 0 ]]; then
 else
 	echo 'No devices complete.'
 fi
-
-
-
-
-
-
-
